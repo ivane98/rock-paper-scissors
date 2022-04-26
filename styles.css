@@ -1,13 +1,17 @@
-/*body {
+body {
     display: flex;
     justify-content: center;
     align-items: center;
 
 }
-*/
+
 .btn {
     font-size: large;
     margin: 10px;
     font-weight: bold;
     padding: 10px;
+}
+
+#result {
+    display: block;
 }
